@@ -1,11 +1,12 @@
 import React,{useState} from 'react'
 import ReactDOM from 'react-dom';
 import './portfolio.css';
-import logo from './assets/images/phone.png';
+
 import blue from './assets/images/blueBTC.png'
 // get our fontawesome imports
 import { faBitcoin } from "@fortawesome/free-brands-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import PhotoImage from "./Photo.js";
 
 function portfolio() {
     return (
@@ -26,7 +27,7 @@ function portfolio() {
                 <a class="terms-apply" href="https://www.coinbase.com/legal/user_agreement#general-use-prohibited-use-death-of-account-holder-and-termination"  title="Terms of Service">* Terms apply</a>
             </div>
             <div className="col-1">
-            <img src={logo} alt="phone logo" width="450px" />
+              <PhotoImage />
             </div>
         </div>
     );
