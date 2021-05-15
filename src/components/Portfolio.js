@@ -27,7 +27,7 @@ function portfolio() {
                 <a class="terms-apply" href="https://www.coinbase.com/legal/user_agreement#general-use-prohibited-use-death-of-account-holder-and-termination"  title="Terms of Service">* Terms apply</a>
             </div>
             <div className="col-1">
-              <PhotoImage />
+              <PhotoImage/>
             </div>
         </div>
     );
