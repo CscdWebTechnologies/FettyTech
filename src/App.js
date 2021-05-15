@@ -7,6 +7,7 @@ import Space from "./components/Space";
 import Table from "./components/Table";
 import BlueLine from "./components/BlueLine";
 import Account from "./components/Account";
+import Trust from "./components/Trust";
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
       <Portfolio />
       <Table />
       <Earning />
+      <Trust />
       <BlueLine />
       <Account />
       <Space/>
