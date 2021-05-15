@@ -29,7 +29,7 @@
     font-family: Graphik, -apple-system, BlinkMacSystemFont;
   }
   
-  .table__name {
+  .tableName {
     display: flex;
     align-items: center;
   }
@@ -44,11 +44,11 @@
     font-weight: 400;
   }
   
-  .table__name img {
+  .tableName img {
     width: 40px;
   }
   
-  .table__name > * {
+  .tableName > * {
     margin-right: 10px;
   }
   td {

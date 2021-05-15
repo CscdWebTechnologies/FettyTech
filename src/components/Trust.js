@@ -1,6 +1,8 @@
 import React from 'react';
 import './trust.css';
 
+
+
 const Trust = () => {
     return (
         <div>

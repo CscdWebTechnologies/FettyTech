@@ -62,7 +62,7 @@ const Lists = [
                 return (
                   <tr>
                     <td className="index">{index + 1}</td>
-                    <td className="table__name">
+                    <td className="tableName">
                       <img src={Lists.icon} alt="logo" />
                       <h4 class="name">{Lists.name}</h4>
                       <h4 className="code">{Lists.code}</h4>
