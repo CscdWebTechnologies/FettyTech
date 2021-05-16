@@ -1,4 +1,4 @@
-.account-sell{
+.account-sell {
     display: flex;
     flex: 1 1 auto;
     align-items: center;
@@ -8,11 +8,11 @@
     padding: 50px 0px 0px 150px;
 }
 
-.upper{
+.upper {
     text-align: center;
-
 }
-.discribe{
+
+.discribe {
     margin-top: 14px;
     line-height: 28px;
     font-size: 16px;
@@ -21,20 +21,20 @@
     font-weight: 400;
 }
 
-.flex_layout{
+.flex_layout {
     display: flex;
     flex-direction: row;
-    width: 100%;
     margin-top: 60px;
-    
+    width: 80%;
+    margin: auto;
 }
 
-.Quick-start{
+.Quick-start {
     text-align: center;
     padding: 10px;
 }
 
-.Line-btn{
+.Line-btn {
     flex: 1 1 0%;
     height: 1px;
     margin-bottom: 80px;
@@ -43,7 +43,7 @@
     border-width: 0;
 }
 
-.StepTitle{
+.StepTitle {
     margin: 30px 0px 20px;
     font-size: 20px;
     color: rgb(35, 49, 67);

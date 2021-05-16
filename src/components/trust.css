@@ -1,17 +1,17 @@
-.flex_layout{
+.flex_layout {
     display: flex;
     flex-direction: row;
-    width: 100%;
-    margin: 80px;
+    width: 80%;
+    margin: auto;
     align-items: center;
 }
 
-.Secure{
+.Secure {
     text-align: center;
     padding: 40px;
 }
 
-.StepTitle{
+.StepTitle {
     margin-top: 72px;
     margin-bottom: 14px;
     font-size: 20px;
@@ -19,14 +19,14 @@
     color: rgb(0, 47, 107);
 }
 
-.info{
+.info {
     color: rgb(144, 161, 184);
     margin: 14px 0px 23px;
     line-height: 20px;
     font-size: 15px;
 }
 
-.Link1{
+.Link1 {
     color: rgb(22, 82, 240);
     cursor: pointer;
     font-size: 14px;

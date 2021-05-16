@@ -1,5 +1,4 @@
-import React, {useState} from 'react'
-import ReactDOM from 'react-dom';
+import React from 'react';
 import './header.css';
 import logo from './assets/images/Consumer_Wordmark.svg';
 
@@ -14,7 +13,7 @@ const Header = () => {
 
                 {/* navigation links */}
                 <ul className="mid-links">
-                    <li>Price</li>
+                    <li>Prices</li>
                     <li>Learn</li>
                     <li>Individuals</li>
                     <li>Businesses</li>

@@ -1,8 +1,7 @@
-import React,{useState} from 'react'
-import ReactDOM from 'react-dom';
+import React from 'react'
 import './portfolio.css';
 
-import blue from './assets/images/blueBTC.png'
+
 // get our fontawesome imports
 import { faBitcoin } from "@fortawesome/free-brands-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";

@@ -20,7 +20,7 @@ function Earning() {
             <div className="right-side"> 
                 <div className="earn">
                         <div className="col-3">
-                            <img src={skale}/>
+                            <img src={skale} alt="skale.img"/>
                             <h2 class="TextElement__Spacer1">SKALE</h2>
                             <h3 class="TextSpacer2">SKL</h3>
                         </div>
@@ -29,7 +29,7 @@ function Earning() {
 
                 <div className="earn">
                         <div className="col-3">
-                            <img src={token}/>
+                            <img src={token} alt="logo"/>
                             <h2 class="TextElement__Spacer1">Ampleforth<br/>Goveernance Token</h2>
                         
                         </div>
@@ -38,7 +38,7 @@ function Earning() {
 
                 <div className="earn">
                         <div className="col-3">
-                            <img src={graph}/>
+                            <img src={graph} alt="graph"/>
                             <h2 class="TextElement__Spacer1">The Graph</h2>
                             <h3 class="TextSpacer2">GRT</h3>
                         </div>
@@ -47,7 +47,7 @@ function Earning() {
 
                 <div className="earn">
                         <div className="col-3">
-                            <img src={steller}/>
+                            <img src={steller} alt="steller"/>
                             <h2 class="TextElement__Spacer1">Steller Lumens</h2>
                             <h3 class="TextSpacer2">XLM</h3>
                         </div>
